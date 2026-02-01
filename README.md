@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/singh-k-praveen)
 [![GitHub followers](https://img.shields.io/github/followers/prvn0x?style=social)](https://github.com/prvn0x)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:praveen230102@gmail.com)
+[![Email](https://img.shields.io/badge/Email-praveen230102%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:praveen230102@gmail.com)
 
 ## 🚀 About Me
 
@@ -31,7 +31,6 @@ I build highly scalable, distributed systems that process millions of events dai
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 **Backend & Frameworks:**
 
@@ -82,7 +81,7 @@ I build highly scalable, distributed systems that process millions of events dai
 ## 🏆 Career Highlights
 
 ### 🎯 Real-time ETA Prediction Platform
-Engineered end-to-end ML-based ETA/ETD prediction system for **15+ carriers**, processing **50M+ daily shipment events**. Built APIs handling **10K+ req/min** with **p99 < 500ms**. Reduced prediction variance by **40%**, improving on-time delivery by **25%**.
+Engineered end-to-end ML-based ETA/ETD prediction system processing **50M+ daily shipment events**. Built APIs handling **10K+ req/min** with **p99 < 500ms**. Reduced prediction variance by **40%**, improving on-time delivery by **90%**.
 
 **Tech:** Java, Python, Kafka, Spring Boot, ML Models
 
@@ -92,9 +91,9 @@ Migrated **20+ microservices** from AWS to Azure. Implemented **blue-green deplo
 **Tech:** Kubernetes, Docker, ArgoCD, Azure AKS, AWS EKS
 
 ### ⚡ Performance Optimization
-Upgraded **11 critical services** from Spring Boot 2.x/Java 8 to Spring Boot 3.3/Java 21. Reduced memory by **50%**, CPU by **85%**. Eliminated **80% of security vulnerabilities**.
+Upgraded **11 critical services** to Spring Boot 3.3/Java 21 and Java 25. Reduced memory by **50%**, CPU by **85%**. Eliminated **80% of security vulnerabilities**.
 
-**Tech:** Java 21, Spring Boot 3.3, JVM Tuning
+**Tech:** Java 21, Java 25, Spring Boot 3.3, JVM Tuning
 
 ### 📊 Streaming Infrastructure
 Migrated Cloudera to Confluent Kafka. Redesigned data pipeline architecture handling **100M+ daily events** with zero downtime. Saved **$100K+ annually** in infrastructure costs.
@@ -118,24 +117,10 @@ Built an AI-powered diagnostic tool leveraging historical incident data for root
 - **Distributed Systems Architecture** - Building scalable, fault-tolerant systems
 - **Microservices Design** - Service decomposition, API design, event-driven patterns
 - **Cloud Migrations** - AWS to Azure, monolith to microservices
-- **Performance Engineering** - Sub-500ms latency systems handling thousands of TPS
+- **Platform Modernization** - Java/Spring Boot upgrades, containerization, Kubernetes adoption
 - **Streaming Platforms** - Kafka pipelines processing 100M+ events/day
 - **Observability** - Distributed tracing, metrics, alerting
 - **System Design** - High-level & low-level design, scalability patterns
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prvn0x&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prvn0x&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prvn0x&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ## 🎓 Education
 
@@ -146,7 +131,7 @@ Chandigarh University, Punjab (2019-2023)
 
 ## 🏅 Achievements & Certifications
 
-- 🏆 **CodeChef 3-Star** (Rating: 1695)
+- 🏆 **CodeChef 4-Star** (Rating: 1850)
 - 🥇 **Rank 555/10,000+** in Inter-NIT Coding Competition
 - 📜 Python Data Structures - Coursera
 - 📜 HackerRank Problem Solving Certified
