@@ -80,7 +80,9 @@ I build highly scalable, distributed systems that process millions of events dai
 
 ## 📌 Featured Repositories
 
-[![Design Patterns](https://github-readme-stats.vercel.app/api/pin/?username=prvn0x&repo=design-patterns-java&theme=tokyonight&hide_border=true)](https://github.com/prvn0x/design-patterns-java)
+| Repository | Description |
+|------------|-------------|
+| [**design-patterns-java**](https://github.com/prvn0x/design-patterns-java) | 🎯 Comprehensive collection of 20+ Gang of Four design patterns implemented in Java with practical examples |
 
 ## 🏆 Career Highlights
 
