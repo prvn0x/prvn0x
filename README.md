@@ -78,6 +78,10 @@ I build highly scalable, distributed systems that process millions of events dai
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
 
+## 📌 Featured Repositories
+
+[![Design Patterns](https://github-readme-stats.vercel.app/api/pin/?username=prvn0x&repo=design-patterns-java&theme=tokyonight&hide_border=true)](https://github.com/prvn0x/design-patterns-java)
+
 ## 🏆 Career Highlights
 
 ### 🎯 Real-time ETA Prediction Platform
